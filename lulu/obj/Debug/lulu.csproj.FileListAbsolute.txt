@@ -1,0 +1,8 @@
+F:\Win\LuLu\lulu\lulu\bin\Debug\lulu.exe
+F:\Win\LuLu\lulu\lulu\bin\Debug\lulu.pdb
+F:\Win\LuLu\lulu\lulu\obj\Debug\lulu.csprojResolveAssemblyReference.cache
+F:\Win\LuLu\lulu\lulu\obj\Debug\lulu.mainForm.resources
+F:\Win\LuLu\lulu\lulu\obj\Debug\lulu.Properties.Resources.resources
+F:\Win\LuLu\lulu\lulu\obj\Debug\lulu.csproj.GenerateResource.Cache
+F:\Win\LuLu\lulu\lulu\obj\Debug\lulu.exe
+F:\Win\LuLu\lulu\lulu\obj\Debug\lulu.pdb
